@@ -8,19 +8,13 @@
 <img align="center" heigth="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="max-width:100%;">
 <img align="center" heigth="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="max-width:100%;">
 <img align="center" heigth="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width:100%;">
-<img align="center" heigth="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" style="max-width:100%;">
-<img align="center" heigth="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" style="max-width:100%;">
-<img align="center" heigth="20" width="30" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="max-width:100%;">
-<img align="center" heigth="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" style="max-width:100%;">
 <img align="center" heigth="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" style="max-width:100%;">
 <img align="center" heigth="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" style="max-width:100%;">
-<img align="center" heigth="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" style="max-width:100%;">
 <img align="center" heigth="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="max-width:100%;">
 <img align="center" heigth="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" style="max-width:100%;">
 <img align="center" heigth="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" style="max-width:100%;">
 <img align="center" heigth="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xd/xd-line.svg" style="max-width:100%;">
 <img align="center" heigth="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" style="max-width:100%;">
-<img align="center" heigth="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" style="max-width:100%;">
 
  <br/>📫 For more informations talk to me on:<br/>
 [![Linkedin Badge](https://img.shields.io/badge/-wennycampos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wennycampos/)](https://www.linkedin.com/in/wennycampos/) 
