@@ -27,9 +27,9 @@
 |
 [![Gmail Badge](https://img.shields.io/badge/wennyct@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wennyct@gmail.com)](mailto:wennyct@gmail.com)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wennycampos&show_icons=true&theme=tokyonight) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wennycampos&show_icons=true&theme=tokyonight)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wennycampos&langs_count=8)](https://github.com/wennycampos/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/68281298/119243312-e686f180-bb3b-11eb-89c3-55e3965edbfa.gif)
 
 
 Welcome and see u! 😊
