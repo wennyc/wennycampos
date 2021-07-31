@@ -31,4 +31,4 @@
 
 Welcome and see u! 😊
 
-![Snake animation](https://github.com/wennycampos)
+![Snake animation](https://github.com/wennycampos/wennycampos/alth/output/github-contribuition-grid-snake.svg)
