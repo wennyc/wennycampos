@@ -18,9 +18,9 @@ I like technologies, programming, design, International Relations, art, games, u
 <img align="center" heigth="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xd/xd-line.svg" style="max-width:100%;">
 
  <br/>For more informations talk to me on:<br/>
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white=https://www.linkedin.com/in/wennycampos/)](https://www.linkedin.com/in/wennycampos/)[![Gmail Badge](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:wennyct@hotmail.com%22/%3E)](mailto:wennyct@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white=https://www.linkedin.com/in/wennycampos/)](https://www.linkedin.com/in/wennycampos/)  [![Gmail Badge](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:wennyct@hotmail.com%22/%3E)](mailto:wennyct@gmail.com)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wennycampos&show_icons=true&theme=tokyonight)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wennycampos&layout=compact&theme=tokyonight) <br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wennycampos&show_icons=true&theme=tokyonight)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wennycampos&layout=compact&theme=tokyonight)
 Welcome and see u!
 
 <br>
